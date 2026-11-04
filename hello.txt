@@ -1,2 +1,5 @@
 "hello" 
 "master branch edit " 
+"This is a f-b branch edit" 
+"feature -branch conflicting edit " 
+
